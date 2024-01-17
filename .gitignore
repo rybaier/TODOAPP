@@ -1,7 +1,7 @@
 # OSX
 #
 .DS_Store
-
+.java-version
 # Xcode
 #
 build/
